@@ -143,7 +143,7 @@ const LoginPage: React.FC = () => {
               <span>or</span>
               <span>New to Castrol?</span>
               <Button
-                text="SignUp"
+                text="Sign Up"
                 size={
                   inputSize === "small"
                     ? "sm"

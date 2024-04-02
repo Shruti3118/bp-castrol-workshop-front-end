@@ -115,7 +115,7 @@ function Navbar() {
                 />
                 <div className={`${styles.verticalDivider}`}></div>
                 <Button
-                  text="SignUp"
+                  text="Sign Up"
                   type="outline"
                   size="md"
                     iconimg="signup_icon"

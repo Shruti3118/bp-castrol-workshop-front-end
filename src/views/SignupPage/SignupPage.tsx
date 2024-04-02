@@ -200,7 +200,7 @@ const SignupPage: React.FC = () => {
           onChange={handleInputChange}
           data-testid="SignupForm"
         >
-          <h1>SignUp</h1>
+          <h1>Sign Up</h1>
           <h2>
             Join the Castrol Community and take your workshop to the next level!
           </h2>
@@ -274,7 +274,7 @@ const SignupPage: React.FC = () => {
           </div>
           <div className={`${styles.buttonscontainer}`}>
             <Button
-              text="SignUp"
+              text="Sign Up"
               size={
                 inputSize === "small"
                   ? "sm"
